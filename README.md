@@ -58,3 +58,6 @@ For more, please turn to the source code.
 
 # License
 `FlyRefresh` is available under the MIT license.
+
+# Announcement
+ This repository is duplicated from https://github.com/race604/FlyRefresh
